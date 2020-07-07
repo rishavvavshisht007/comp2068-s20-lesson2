@@ -1,0 +1,23 @@
+{
+  "name": "first-node-app",
+  "version": "1.0.0",
+  "description": "doing practice",
+  "main": "first-node-app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon first-node-app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishavvavshisht007/comp2068-s20-lesson2.git"
+  },
+  "author": "Rishav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishavvavshisht007/comp2068-s20-lesson2/issues"
+  },
+  "homepage": "https://github.com/rishavvavshisht007/comp2068-s20-lesson2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
