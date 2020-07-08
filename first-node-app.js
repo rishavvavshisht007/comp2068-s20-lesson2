@@ -1,4 +1,5 @@
-const express = require('express');
+const express;
+express = require('express');
 const { request, response } = require('express');
 const app = express();
 const https = require('https');
@@ -23,4 +24,4 @@ response.send(`
   });
 });
 
-app.listen(3000);
+app.listen(process.env.PORT || 3000);
