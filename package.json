@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/rishavvavshisht007/comp2068-s20-lesson2#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
